@@ -1,13 +1,16 @@
-# ufop-20262
+ufop-20262 a
 
-[Jogos](#csi507_design_desenvolvimento_jogos) | [Eng Soft I](#csi412_engsoft1) | [Eng Soft II](/#csi410_engsoft2)
+[Jogos](#csi507_jogos) | [Eng Soft I](#csi412_engsoft1) | [Eng Soft II](/#csi410_engsoft2)
 
+---
 
-## CSI507_Design_desenvolvimento_jogos
+# CSI507_jogos
+
+## DESIGN E DESENVOLVIMENTO DE JOGOS
 
 ### Avisos
 
-- **24/11** O Moodle está fora do ar. Até ele voltar, os materiais e as entregas da disciplina ficam nesta página.
+- **24/11** O Moodle está fora do ar. De agora em diante, os materiais e as entregas da disciplina ficam nesta página.
 - O seminário 3 será no dia 07/12, com escolha e apresentação (10 a 12 min) de artigo publicado entre 2021 e 2026 no periódico Entertainment Computing (https://www.sciencedirect.com/journal/entertainment-computing).
 
 ### Materiais
@@ -27,11 +30,18 @@ Os nomes sugeridos para os arquivos estão no PUBLICAR.md. -->
 | xx/xx | tmp | tmp |
 | xx/xx | tmp | tmp |
 
-## CSI412_EngSoft1
+---
+---
+---
+---
+---
+
+# CSI412_EngSoft1
+## ENGENHARIA DE SOFTWARE I
 
 ### Avisos
 
-- **24/11** O Moodle está fora do ar. Até ele voltar, os materiais e as entregas da disciplina ficam nesta página.
+- **24/11** O Moodle está fora do ar. De agora em diante, os materiais e as entregas da disciplina ficam nesta página.
 
 ### Materiais
 <!-- Para publicar um material: copie o arquivo para a pasta materiais/ e troque "em breve" pelo link.
@@ -50,11 +60,18 @@ Os nomes sugeridos para os arquivos estão no PUBLICAR.md. -->
 | xx/xx | tmp | tmp |
 | xx/xx | tmp | tmp |
 
-## CSI410_EngSoft2
+---
+---
+---
+---
+---
+
+# CSI410_EngSoft2
+## ENGENHARIA DE SOFTWARE II
 
 ### Avisos
 
-- **24/11** O Moodle está fora do ar. Até ele voltar, os materiais e as entregas da disciplina ficam nesta página.
+- **24/11** O Moodle está fora do ar. De agora em diante, os materiais e as entregas da disciplina ficam nesta página.
 
 ### Materiais
 <!-- Para publicar um material: copie o arquivo para a pasta materiais/ e troque "em breve" pelo link.
