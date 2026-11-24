@@ -1,6 +1,6 @@
-ufop-20262
+ufop-20262 a
 
-[Jogos](#csi507_jogos) | [Eng Soft I](#csi412_es1) | [Eng Soft II](/#csi410_es2)
+[Jogos](#csi507_jogos) | [Eng Soft I](#csi412_es1) | [Eng Soft II](#csi410_es2)
 
 ---
 
@@ -85,7 +85,7 @@ Os nomes sugeridos para os arquivos estão no PUBLICAR.md. -->
 
 | Data limite | Descrição | Link para entrega |
 |---|---|---|
-| 25/11 | ENTREGA: slides seminário 2  | tmp |
+| 25/11 | ENTREGA: slides seminário 2  | [enviar slides](https://forms.gle/q1D6qkN6wEgagqpf9) |
 | 25/11 | ATV AVALIAÇÃO (SEMINÁRIO 2): apresentação do seminário 2  | tmp |
 | xx/xx | tmp | tmp |
 | xx/xx | tmp | tmp |
