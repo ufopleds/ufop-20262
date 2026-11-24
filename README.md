@@ -1,4 +1,4 @@
-ufop-20262 a
+ufop-20262
 
 [Jogos](#csi507_jogos) | [Eng Soft I](#csi412_es1) | [Eng Soft II](#csi410_es2)
 
@@ -10,7 +10,7 @@ ufop-20262 a
 
 ### Avisos
 
-- **24/11** O Moodle está fora do ar. De agora em diante, os materiais e as entregas da disciplina ficam nesta página.
+- **24/11** O Moodle está fora do ar. De agora em diante, os materiais e as entregas da disciplina ficam nesta página. No documento do Projeto de curso, onde se lê "tarefa do Moodle", a entrega passa a ser feita pelo formulário indicado no cronograma abaixo. As datas e o conteúdo de cada entrega não mudam.
 - O seminário 3 será no dia 07/12, com escolha e apresentação (10 a 12 min) de artigo publicado entre 2021 e 2026 no periódico Entertainment Computing (https://www.sciencedirect.com/journal/entertainment-computing).
 
 ### Materiais
@@ -64,7 +64,7 @@ O roteiro completo está no documento do Projeto de curso.
 
 ### Avisos
 
-- **24/11** O Moodle está fora do ar. De agora em diante, os materiais e as entregas da disciplina ficam nesta página.
+- **24/11** O Moodle está fora do ar. De agora em diante, os materiais e as entregas da disciplina ficam nesta página. No documento do Projeto de curso, onde se lê "tarefa do Moodle", a entrega passa a ser feita pelo formulário indicado no cronograma abaixo. As datas e o conteúdo de cada entrega não mudam.
 
 ### Materiais
 
@@ -80,21 +80,46 @@ CONSULTE A DESCRIÇÃO DETALHADA DE CADA ENTREGA NO DOCUMENTO DO PROJETO DE CURS
 
 | Data limite | Descrição | Link para entrega |
 |---|---|---|
-| 25/11 | ENTREGA: slides seminário 2  | [enviar slides](https://forms.gle/7KPBBeknWKqgtUs59) |
-| 25/11 | ATV AVALIAÇÃO (SEMINÁRIO 2): apresentação do seminário 2  | tmp |
-| xx/xx | tmp | tmp |
-| xx/xx | tmp | tmp |
+| a definir | AULA: UML III | não se aplica | <!-- AULA: UML III (diagramas de sequência, de atividades e máquina de estados) -->
+| 25/11 | ENTREGA: slides seminário 2 | [enviar slides](https://forms.gle/7KPBBeknWKqgtUs59) |
+| 25/11 | ATV AVALIAÇÃO (SEMINÁRIO 2): apresentação do seminário 2 | não se aplica |
+| 29/11 | ENTREGA (E3-1): Etapa 3 do projeto, documento de modelagem | em breve |
+| 29/11 | ENTREGA (E3-2): Etapa 3 do projeto, incremento 1 do MVP (link do repositório, com a tag `incremento-1`) | em breve |
+| 29/11 | ENTREGA (E3-3): Etapa 3 do projeto, slides da apresentação | em breve |
+| 30/11 | ATV AVALIAÇÃO (E3-4): apresentações da Etapa 3 do projeto | não se aplica |
+| 02/12 | ATV AVALIAÇÃO (E3-4): apresentações da Etapa 3 do projeto | não se aplica |
+| 07/12 | ATV AVALIAÇÃO (PROVA 2) | não se aplica |
+| 09/12 | AULA: correção da Prova 2 | não se aplica |
+| 13/12 | ENTREGA (E4-1): Etapa 4 do projeto, MVP (link do repositório, com a tag `mvp` e o LEIAME na raiz) | em breve |
+| 14/12 | ATV AVALIAÇÃO (MOSTRA DE PROJETOS): estande com o MVP e arguição individual | não se aplica |
+| 15/12 | ENTREGA (E4-2): Etapa 4 do projeto, relatório final | em breve |
+| 16/12 | Sem aula presencial | não se aplica |
+| 21/12 | EXAME ESPECIAL | não se aplica |
+| 23/12 | Correção do exame especial | não se aplica |
 
 ### PROJETO DE CURSO
 
-#### O que enviar na Etapa 8
+#### O que enviar na Etapa 3 (até 29/11)
  
-Um único formulário: 
-- Demo: link para baixar a build e link do repositório, com a tag `etapa-8`.
-- Relatório final em PDF, no modelo SBC, com post-mortem e declaração de uso de IA.
-- LEIAME: download, instalação, como jogar e controles.
-- Vídeo de gameplay: link do YouTube (público, não listado) e link do drive com vídeo original.
+Três formulários, um para cada entrega:
+ 
+- E3-1, documento de modelagem: PDF único, com o link do repositório e os anexos no mesmo arquivo (registro de etapa, declaração de contribuição, declaração de uso de IA e, se houver, a ata da revisão com o cliente).
+- E3-2, incremento 1 do MVP: link do repositório, acessível ao professor e marcado com a tag `incremento-1`. A versão avaliada é a da tag: o que vier depois dela conta para a Etapa 4.
+- E3-3, slides da apresentação: PDF.
+A apresentação em sala (E3-4) acontece em 30/11 ou 02/12, com 10 minutos de apresentação e 5 de arguição por grupo.
+ 
+#### O que enviar na Etapa 4 (até 13/12 e 15/12)
+ 
+Dois formulários, um para cada entrega:
+ 
+- E4-1, MVP (até 13/12): link do repositório marcado com a tag `mvp`, com o LEIAME na raiz (download ou acesso, instalação, como testar os casos de uso implementados e limitações conhecidas).
+- E4-2, relatório final (até 15/12): PDF único, no modelo SBC, de 6 a 8 páginas, com post-mortem e declaração de uso de IA, e com os anexos no mesmo arquivo (testes de aceitação, ata e termo de aceitação, matriz de rastreabilidade, registro de mudanças, registro de etapa e declaração de contribuição).
 O roteiro completo está no documento do Projeto de curso.
+ 
+#### Mostra de Projetos (14/12)
+ 
+- Local e horário: a divulgar.
+- Escala da arguição individual: a divulgar.
 
 ### Atendimento
  
@@ -112,7 +137,7 @@ O roteiro completo está no documento do Projeto de curso.
 
 ### Avisos
 
-- **24/11** O Moodle está fora do ar. De agora em diante, os materiais e as entregas da disciplina ficam nesta página.
+- **24/11** O Moodle está fora do ar. De agora em diante, os materiais e as entregas da disciplina ficam nesta página. No documento do Projeto de curso, onde se lê "tarefa do Moodle", a entrega passa a ser feita pelo formulário indicado no cronograma abaixo. As datas e o conteúdo de cada entrega não mudam.
 
 ### Materiais
 
