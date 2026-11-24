@@ -8,12 +8,12 @@ ufop-20262
 
 ## DESIGN E DESENVOLVIMENTO DE JOGOS
 
-### Avisos
+### Avisos (CSI507_jogos)
 
 - **24/11** O Moodle está fora do ar. De agora em diante, os materiais e as entregas da disciplina ficam nesta página. No documento do Projeto de curso, onde se lê "tarefa do Moodle", a entrega passa a ser feita pelo formulário indicado no cronograma abaixo. As datas e o conteúdo de cada entrega não mudam. As notas e as faltas continuam na planilha de notas (link em Materiais).
 - O seminário 3 será no dia 07/12, com escolha e apresentação (10 a 12 min) de artigo publicado entre 2021 e 2026 no periódico Entertainment Computing (https://www.sciencedirect.com/journal/entertainment-computing).
 
-### Materiais
+### Materiais (CSI507_jogos)
 
 - Planilha de notas e faltas: [https://docs.google.com/spreadsheets/d/e/2PACX-1vTgxB-JqEdTAGq8iznECQCvv_6_e5SFRTtAi_8uwFKusn6S2tjInVas0Ly9ClRDbKVvim9bUqBOhoz0/pubhtml](https://docs.google.com/spreadsheets/d/e/2PACX-1vTgxB-JqEdTAGq8iznECQCvv_6_e5SFRTtAi_8uwFKusn6S2tjInVas0Ly9ClRDbKVvim9bUqBOhoz0/pubhtml)
 - Slides: [https://drive.google.com/drive/folders/1I9poQwrMgKwiL2PYbwUGHN-KL1lHehSH](https://drive.google.com/drive/folders/1I9poQwrMgKwiL2PYbwUGHN-KL1lHehSH)
@@ -25,7 +25,7 @@ OBS: TODAS AS ENTREGAS POSSUEM COMO HORÁRIO LIMITE 23:59 DA DATA LIMITE!
 
 CONSULTE A DESCRIÇÃO DETALHADA DE CADA ENTREGA NO DOCUMENTO DO PROJETO DE CURSO.
 
-| Data limite | Descrição | Link para entrega |
+| Data limite | Descrição (CSI507_jogos) | Link para entrega |
 |---|---|---|
 | 25/11 | AULA | não se aplica | <!-- AULA: tópicos especiais I (realidade virtual, realidade aumentada e IA) -->
 | 26/11 | **ENTREGA (REENVIO)**: Etapa 7 do projeto (vertical slice) | [https://forms.gle/uEanQY9RfmBgrLy5A](https://forms.gle/uEanQY9RfmBgrLy5A) |
@@ -39,7 +39,7 @@ CONSULTE A DESCRIÇÃO DETALHADA DE CADA ENTREGA NO DOCUMENTO DO PROJETO DE CURS
 | 21/12 | EXAME ESPECIAL | não se aplica |
 | 23/12 | Correção do exame especial | não se aplica |
 
-### PROJETO DE CURSO
+### PROJETO DE CURSO (CSI507_jogos)
 
 #### O que enviar na Etapa 8
  
@@ -64,24 +64,24 @@ O roteiro completo está no documento do Projeto de curso.
 # CSI412_es1
 ## ENGENHARIA DE SOFTWARE I
 
-### Avisos
+### Avisos (CSI412_es1)
 
 - **24/11** O Moodle está fora do ar. De agora em diante, os materiais e as entregas da disciplina ficam nesta página. No documento do Projeto de curso, onde se lê "tarefa do Moodle", a entrega passa a ser feita pelo formulário indicado no cronograma abaixo. As datas e o conteúdo de cada entrega não mudam. As notas e as faltas continuam na planilha de notas (link em Materiais).
 
-### Materiais
+### Materiais (CSI412_es1)
 
 - Planilha de notas e faltas: [https://docs.google.com/spreadsheets/d/e/2PACX-1vQYrCVX8ZlE0I9LD-8QxavXAfHeerqoux3VrCukz1iEbQi0Q6wElGQyg1Dku9dqy3_5Ongovn0TVlFZ/pubhtml](https://docs.google.com/spreadsheets/d/e/2PACX-1vQYrCVX8ZlE0I9LD-8QxavXAfHeerqoux3VrCukz1iEbQi0Q6wElGQyg1Dku9dqy3_5Ongovn0TVlFZ/pubhtml)
 - Slides e listas: [https://drive.google.com/drive/folders/1BZ95EcM26LBZ8vAMpnQgOkBKbCiiBSNf](https://drive.google.com/drive/folders/1BZ95EcM26LBZ8vAMpnQgOkBKbCiiBSNf)
 - Projeto de curso: [https://docs.google.com/document/d/18WREH4jkbfwmI1e6JTdPf2uO1MMdBzfEes3GuwXREBQ/](https://docs.google.com/document/d/18WREH4jkbfwmI1e6JTdPf2uO1MMdBzfEes3GuwXREBQ/)
 
 
-### Cronograma (AULAS E ENTREGAS)
+### Cronograma (AULAS E ENTREGAS) (CSI412_es1)
 
 OBS: TODAS AS ENTREGAS POSSUEM COMO HORÁRIO LIMITE 23:59 DA DATA LIMITE!
 
 CONSULTE A DESCRIÇÃO DETALHADA DE CADA ENTREGA NO DOCUMENTO DO PROJETO DE CURSO.
 
-| Data limite | Descrição | Link para entrega |
+| Data limite | Descrição (CSI412_es1) | Link para entrega |
 |---|---|---|
 | a definir | AULA: UML III | não se aplica | <!-- AULA: UML III (diagramas de sequência, de atividades e máquina de estados) -->
 | 25/11 | ENTREGA: slides seminário 2 | [enviar slides](https://forms.gle/7KPBBeknWKqgtUs59) |
@@ -104,7 +104,7 @@ CONSULTE A DESCRIÇÃO DETALHADA DE CADA ENTREGA NO DOCUMENTO DO PROJETO DE CURS
 | 21/12 | EXAME ESPECIAL | não se aplica |
 | 23/12 | Correção do exame especial | não se aplica |
 
-### PROJETO DE CURSO
+### PROJETO DE CURSO (CSI412_es1)
 
 #### O que enviar na Etapa 3 (até 29/11)
  
@@ -142,17 +142,17 @@ O roteiro completo está no documento do Projeto de curso.
 # CSI410_es2
 ## ENGENHARIA DE SOFTWARE II
 
-### Avisos
+### Avisos (CSI410_es2)
 
 - **24/11** O Moodle está fora do ar. De agora em diante, os materiais e as entregas da disciplina ficam nesta página. No documento do Projeto de curso, onde se lê "tarefa do Moodle", a entrega passa a ser feita pelo formulário indicado no cronograma abaixo. As datas e o conteúdo de cada entrega não mudam. As notas e as faltas continuam na planilha de notas (link em Materiais).
 
-### Materiais
+### Materiais (CSI410_es2)
 
 - Planilha de notas e faltas: [https://docs.google.com/spreadsheets/d/e/2PACX-1vRn903UJVW3EwMbeVv9ZOb9dLc3W28cbKDDoGaD67ESfPQOfatgQJEADAz5uydxw-BslzLUAqJ3ryA9/pubhtml](https://docs.google.com/spreadsheets/d/e/2PACX-1vRn903UJVW3EwMbeVv9ZOb9dLc3W28cbKDDoGaD67ESfPQOfatgQJEADAz5uydxw-BslzLUAqJ3ryA9/pubhtml)
 - Slides e listas: [https://drive.google.com/drive/folders/1hs9jhddD5FwFIGWmVnzKSRdacv4eOkp6](https://drive.google.com/drive/folders/1hs9jhddD5FwFIGWmVnzKSRdacv4eOkp6)
 - Projeto de curso: [https://docs.google.com/document/d/1sIq77JkwcwjnFreoeU8iCQ-BsLGYo16fHz-JPyrMkG0/](https://docs.google.com/document/d/1sIq77JkwcwjnFreoeU8iCQ-BsLGYo16fHz-JPyrMkG0/)
 
-### Cronograma (AULAS E ENTREGAS)
+### Cronograma (AULAS E ENTREGAS) (CSI410_es2)
 
 OBS: TODAS AS ENTREGAS POSSUEM COMO HORÁRIO LIMITE 23:59 DA DATA LIMITE!
 
@@ -160,7 +160,7 @@ CONSULTE A DESCRIÇÃO DETALHADA DE CADA ENTREGA NO DOCUMENTO DO PROJETO DE CURS
 
 REENVIO: entregas feitas no Moodle cujos arquivos não puderam ser baixados e avaliados. Todos devem enviar de novo pelo formulário, inclusive quem já tinha enviado no Moodle. Vale o que chegar até a nova data limite.
 
-| Data limite | Descrição | Link para entrega |
+| Data limite | Descrição (CSI410_es2) | Link para entrega |
 |---|---|---|
 | 25/11 | ENTREGA: Lista 09 (Evolução de software), em PDF | em breve |
 | 25/11 | ENTREGA: slides seminário 2  | [enviar slides](https://forms.gle/q1D6qkN6wEgagqpf9) |
@@ -186,7 +186,7 @@ REENVIO: entregas feitas no Moodle cujos arquivos não puderam ser baixados e av
 | 21/12 | EXAME ESPECIAL | não se aplica |
 | 23/12 | Correção do exame especial | não se aplica |
 
-### PROJETO DE CURSO
+### PROJETO DE CURSO (CSI410_es2)
 
 #### O que enviar nas Etapas 3, 4 e 5
  
