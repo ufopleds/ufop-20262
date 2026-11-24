@@ -153,11 +153,18 @@ OBS: TODAS AS ENTREGAS POSSUEM COMO HORÁRIO LIMITE 23:59 DA DATA LIMITE!
 
 CONSULTE A DESCRIÇÃO DETALHADA DE CADA ENTREGA NO DOCUMENTO DO PROJETO DE CURSO.
 
+REENVIO: entregas feitas no Moodle cujos arquivos não puderam ser baixados e avaliados. Todos devem enviar de novo pelo formulário, inclusive quem já tinha enviado no Moodle. Vale o que chegar até a nova data limite.
+
 | Data limite | Descrição | Link para entrega |
 |---|---|---|
 | 25/11 | ENTREGA: Lista 09 (Evolução de software), em PDF | em breve |
 | 25/11 | ENTREGA: slides seminário 2  | [enviar slides](https://forms.gle/q1D6qkN6wEgagqpf9) |
 | 25/11 | ATV AVALIAÇÃO (SEMINÁRIO 2): apresentação do seminário 2  | não se aplica |
+| 26/11 | REENVIO: Etapa 2 do projeto (E2-1): documento de arquitetura, em PDF | em breve |
+| 26/11 | REENVIO: Etapa 2 do projeto (E2-2): link do repositório, com a tag `etapa-2` | em breve |
+| 26/11 | REENVIO: Etapa 2 do projeto (E2-3): link público do documento de arquitetura | em breve |
+| 26/11 | REENVIO: Etapa 2 do projeto (E2-4): revisão individual da arquitetura | em breve |
+| 26/11 | REENVIO: Lista 08 (Gerenciamento de qualidade), em PDF | em breve |
 | 29/11 | ENTREGA: Etapa 3 do projeto (E3-1): documento da Etapa 3, em PDF | em breve |
 | 29/11 | ENTREGA: Etapa 3 do projeto (E3-2): link do repositório, com a tag `incremento-1` | em breve |
 | 29/11 | ENTREGA: Etapa 3 do projeto (E3-3): link do vídeo | em breve |
