@@ -31,7 +31,7 @@ CONSULTE A DESCRIÇÃO DETALHADA DE CADA ENTREGA NO DOCUMENTO DO PROJETO DE CURS
 | 26/11 | **ENTREGA (REENVIO)**: Etapa 7 do projeto (vertical slice) | [https://forms.gle/uEanQY9RfmBgrLy5A](https://forms.gle/uEanQY9RfmBgrLy5A) |
 | 30/11 | AULA | não se aplica | <!-- AULA: tópicos especiais II e aplicações -->
 | 02/12 | AULA | não se aplica | <!-- AULA: processos de produção e pós-produção; orientações do relatório SBC, do LEIAME e do vídeo -->
-| 06/12 | ENTREGA: slides seminário 3 | em breve |
+| 06/12 | ENTREGA: slides seminário 3 | [https://forms.gle/giFKknZpiR8edsmz9](https://forms.gle/giFKknZpiR8edsmz9) |
 | 07/12 | ATV AVALIAÇÃO (SEMINÁRIO 3): apresentação do seminário 3 | não se aplica |
 | 09/12 | AULA | não se aplica | <!-- AULA: playtest da demo e ensaio da Mostra de Jogos -->
 | 14/12 | ATV AVALIAÇÃO (MOSTRA DE JOGOS): apresentação pública do jogo, com banca | não se aplica |
