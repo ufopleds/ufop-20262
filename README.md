@@ -1,6 +1,6 @@
-ufop-20262 a
+ufop-20262
 
-[Jogos](#csi507_jogos) | [Eng Soft I](#csi412_engsoft1) | [Eng Soft II](/#csi410_engsoft2)
+[Jogos](#csi507_jogos) | [Eng Soft I](#csi412_es1) | [Eng Soft II](/#csi410_es2)
 
 ---
 
@@ -36,7 +36,7 @@ Os nomes sugeridos para os arquivos estão no PUBLICAR.md. -->
 ---
 ---
 
-# CSI412_EngSoft1
+# CSI412_es1
 ## ENGENHARIA DE SOFTWARE I
 
 ### Avisos
@@ -55,7 +55,7 @@ Os nomes sugeridos para os arquivos estão no PUBLICAR.md. -->
 
 | Data limite | Descrição | Link para entrega |
 |---|---|---|
-| 25/11 | ENTREGA: slides seminário 2  | tmp |
+| 25/11 | ENTREGA: slides seminário 2  | [enviar slides](https://forms.gle/7KPBBeknWKqgtUs59) |
 | 25/11 | ATV AVALIAÇÃO (SEMINÁRIO 2): apresentação do seminário 2  | tmp |
 | xx/xx | tmp | tmp |
 | xx/xx | tmp | tmp |
@@ -66,7 +66,7 @@ Os nomes sugeridos para os arquivos estão no PUBLICAR.md. -->
 ---
 ---
 
-# CSI410_EngSoft2
+# CSI410_es2
 ## ENGENHARIA DE SOFTWARE II
 
 ### Avisos
