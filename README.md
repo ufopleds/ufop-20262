@@ -143,9 +143,9 @@ O roteiro completo está no documento do Projeto de curso.
 
 ### Materiais
 
+- Planilha de notas e faltas: [https://docs.google.com/spreadsheets/d/e/2PACX-1vRn903UJVW3EwMbeVv9ZOb9dLc3W28cbKDDoGaD67ESfPQOfatgQJEADAz5uydxw-BslzLUAqJ3ryA9/pubhtml](https://docs.google.com/spreadsheets/d/e/2PACX-1vRn903UJVW3EwMbeVv9ZOb9dLc3W28cbKDDoGaD67ESfPQOfatgQJEADAz5uydxw-BslzLUAqJ3ryA9/pubhtml)
 - Slides e listas: [https://drive.google.com/drive/folders/1hs9jhddD5FwFIGWmVnzKSRdacv4eOkp6](https://drive.google.com/drive/folders/1hs9jhddD5FwFIGWmVnzKSRdacv4eOkp6)
 - Projeto de curso: [https://docs.google.com/document/d/1sIq77JkwcwjnFreoeU8iCQ-BsLGYo16fHz-JPyrMkG0/](https://docs.google.com/document/d/1sIq77JkwcwjnFreoeU8iCQ-BsLGYo16fHz-JPyrMkG0/)
-- Planilha de notas e faltas: [https://docs.google.com/spreadsheets/d/e/2PACX-1vRn903UJVW3EwMbeVv9ZOb9dLc3W28cbKDDoGaD67ESfPQOfatgQJEADAz5uydxw-BslzLUAqJ3ryA9/pubhtml](https://docs.google.com/spreadsheets/d/e/2PACX-1vRn903UJVW3EwMbeVv9ZOb9dLc3W28cbKDDoGaD67ESfPQOfatgQJEADAz5uydxw-BslzLUAqJ3ryA9/pubhtml)
 
 ### Cronograma (AULAS E ENTREGAS)
 
