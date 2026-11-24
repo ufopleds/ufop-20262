@@ -28,6 +28,7 @@ CONSULTE A DESCRIÇÃO DETALHADA DE CADA ENTREGA NO DOCUMENTO DO PROJETO DE CURS
 | Data limite | Descrição | Link para entrega |
 |---|---|---|
 | 25/11 | AULA | não se aplica | <!-- AULA: tópicos especiais I (realidade virtual, realidade aumentada e IA) -->
+| 26/11 | ENTREGA (REENVIO): Etapa 7 do projeto (vertical slice). Entregue no Moodle em 22/11 e ainda sem nota, precisa ser reenviada. Pode ser uma versão atualizada | em breve |
 | 30/11 | AULA | não se aplica | <!-- AULA: tópicos especiais II e aplicações -->
 | 02/12 | AULA | não se aplica | <!-- AULA: processos de produção e pós-produção; orientações do relatório SBC, do LEIAME e do vídeo -->
 | 06/12 | ENTREGA: slides seminário 3 | em breve |
