@@ -1,6 +1,6 @@
 # ufop-20262
 
-[Jogos](/README.md#CSI507_Design_desenvolvimento_jogos) | [Eng Soft I](/README.md#CSI412_EngSoft1) | [Eng Soft II](/README.md#CSI410_EngSoft2)
+[Jogos](#csi507_design_desenvolvimento_jogos) | [Eng Soft I](#CSI412_EngSoft1) | [Eng Soft II](/#CSI410_EngSoft2)
 
 
 ## CSI507_Design_desenvolvimento_jogos
