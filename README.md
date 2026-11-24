@@ -86,10 +86,10 @@ CONSULTE A DESCRIÇÃO DETALHADA DE CADA ENTREGA NO DOCUMENTO DO PROJETO DE CURS
 | a definir | AULA: UML III | não se aplica | <!-- AULA: UML III (diagramas de sequência, de atividades e máquina de estados) -->
 | 25/11 | ENTREGA: slides seminário 2 | [enviar slides](https://forms.gle/7KPBBeknWKqgtUs59) |
 | 25/11 | ATV AVALIAÇÃO (SEMINÁRIO 2): apresentação do seminário 2 | não se aplica |
-| 27/11 | ENTREGA (E1-4), REENVIO: Etapa 1 do projeto, plano do projeto (PDF, com a carta de aceite e as declarações) | em breve |
-| 27/11 | ENTREGA (E2-1), REENVIO: Etapa 2 do projeto, documento de requisitos (PDF, com os termos de consentimento em anexo) | em breve |
-| 27/11 | ENTREGA (L08), REENVIO: lista de exercícios UML I | em breve |
-| 27/11 | ENTREGA (L09), REENVIO: lista de exercícios UML II | em breve |
+| 27/11 | ENTREGA (E1-4) (REENVIO): Etapa 1 do projeto, plano do projeto (PDF, com a carta de aceite e as declarações) | em breve |
+| 27/11 | ENTREGA (E2-1) (REENVIO): Etapa 2 do projeto, documento de requisitos (PDF, com os termos de consentimento em anexo) | em breve |
+| 27/11 | ENTREGA (L08) (REENVIO): lista de exercícios UML I | em breve |
+| 27/11 | ENTREGA (L09) (REENVIO): lista de exercícios UML II | em breve |
 | 29/11 | ENTREGA (E3-1): Etapa 3 do projeto, documento de modelagem | em breve |
 | 29/11 | ENTREGA (E3-2): Etapa 3 do projeto, incremento 1 do MVP (link do repositório, com a tag `incremento-1`) | em breve |
 | 29/11 | ENTREGA (E3-3): Etapa 3 do projeto, slides da apresentação | em breve |
