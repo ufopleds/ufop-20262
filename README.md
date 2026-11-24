@@ -14,14 +14,15 @@
 <!-- Para publicar um material: copie o arquivo para a pasta materiais/ e troque "em breve" pelo link.
 Modelo: [PDF](materiais/nome-do-arquivo.pdf)
 Os nomes sugeridos para os arquivos estão no PUBLICAR.md. -->
-- Slides: https://drive.google.com/drive/folders/1I9poQwrMgKwiL2PYbwUGHN-KL1lHehSH
-- Projeto de curso: https://drive.google.com/file/d/1brg-5Q8vrleirw7L8stv4onU-QBoXGWI/view?usp=sharing
+- Slides: [https://drive.google.com/drive/folders/1I9poQwrMgKwiL2PYbwUGHN-KL1lHehSH](https://drive.google.com/drive/folders/1I9poQwrMgKwiL2PYbwUGHN-KL1lHehSH)
+- Projeto de curso: [https://drive.google.com/file/d/1brg-5Q8vrleirw7L8stv4onU-QBoXGWI/view?usp=sharing](https://drive.google.com/file/d/1brg-5Q8vrleirw7L8stv4onU-QBoXGWI/view?usp=sharing)
 
 ### Cronograma (AULAS E ENTREGAS)
 
 | Data limite | Descrição | Link para entrega |
 |---|---|---|
 | 06/12 | ENTREGA: slides seminário 3  | tmp |
+| 07/12 | ATV AVALIAÇÃO (SEMINÁRIO 3): apresentação do seminário 3  | tmp |
 | xx/xx | tmp | tmp |
 | xx/xx | tmp | tmp |
 | xx/xx | tmp | tmp |
@@ -36,15 +37,16 @@ Os nomes sugeridos para os arquivos estão no PUBLICAR.md. -->
 <!-- Para publicar um material: copie o arquivo para a pasta materiais/ e troque "em breve" pelo link.
 Modelo: [PDF](materiais/nome-do-arquivo.pdf)
 Os nomes sugeridos para os arquivos estão no PUBLICAR.md. -->
-- Slides: https://drive.google.com/drive/folders/1I9poQwrMgKwiL2PYbwUGHN-KL1lHehSH
-- Projeto de curso: https://drive.google.com/file/d/1brg-5Q8vrleirw7L8stv4onU-QBoXGWI/view?usp=sharing
+- Slides e listas: [https://drive.google.com/drive/folders/1I9poQwrMgKwiL2PYbwUGHN-KL1lHehSH](https://drive.google.com/drive/folders/1BZ95EcM26LBZ8vAMpnQgOkBKbCiiBSNf)
+- Projeto de curso: [https://drive.google.com/file/d/1brg-5Q8vrleirw7L8stv4onU-QBoXGWI/view?usp=sharing](https://docs.google.com/document/d/18WREH4jkbfwmI1e6JTdPf2uO1MMdBzfEes3GuwXREBQ/)
+
 
 ### Cronograma (AULAS E ENTREGAS)
 
 | Data limite | Descrição | Link para entrega |
 |---|---|---|
-| 06/12 | ENTREGA: slides seminário 3  | tmp |
-| xx/xx | tmp | tmp |
+| 25/11 | ENTREGA: slides seminário 2  | tmp |
+| 25/11 | ATV AVALIAÇÃO (SEMINÁRIO 2): apresentação do seminário 2  | tmp |
 | xx/xx | tmp | tmp |
 | xx/xx | tmp | tmp |
 
@@ -58,14 +60,16 @@ Os nomes sugeridos para os arquivos estão no PUBLICAR.md. -->
 <!-- Para publicar um material: copie o arquivo para a pasta materiais/ e troque "em breve" pelo link.
 Modelo: [PDF](materiais/nome-do-arquivo.pdf)
 Os nomes sugeridos para os arquivos estão no PUBLICAR.md. -->
-- Slides: https://drive.google.com/drive/folders/1I9poQwrMgKwiL2PYbwUGHN-KL1lHehSH
-- Projeto de curso: https://drive.google.com/file/d/1brg-5Q8vrleirw7L8stv4onU-QBoXGWI/view?usp=sharing
+- Slides e listas: [https://drive.google.com/drive/folders/1I9poQwrMgKwiL2PYbwUGHN-KL1lHehSH](https://drive.google.com/drive/folders/1hs9jhddD5FwFIGWmVnzKSRdacv4eOkp6)
+- Projeto de curso: [https://drive.google.com/file/d/1brg-5Q8vrleirw7L8stv4onU-QBoXGWI/view?usp=sharing](https://docs.google.com/document/d/1sIq77JkwcwjnFreoeU8iCQ-BsLGYo16fHz-JPyrMkG0/)
+
 
 ### Cronograma (AULAS E ENTREGAS)
 
 | Data limite | Descrição | Link para entrega |
 |---|---|---|
-| 06/12 | ENTREGA: slides seminário 3  | tmp |
+| 25/11 | ENTREGA: slides seminário 2  | tmp |
+| 25/11 | ATV AVALIAÇÃO (SEMINÁRIO 2): apresentação do seminário 2  | tmp |
 | xx/xx | tmp | tmp |
 | xx/xx | tmp | tmp |
 | xx/xx | tmp | tmp |
