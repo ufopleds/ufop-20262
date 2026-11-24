@@ -10,11 +10,12 @@ ufop-20262
 
 ### Avisos
 
-- **24/11** O Moodle está fora do ar. De agora em diante, os materiais e as entregas da disciplina ficam nesta página. No documento do Projeto de curso, onde se lê "tarefa do Moodle", a entrega passa a ser feita pelo formulário indicado no cronograma abaixo. As datas e o conteúdo de cada entrega não mudam.
+- **24/11** O Moodle está fora do ar. De agora em diante, os materiais e as entregas da disciplina ficam nesta página. No documento do Projeto de curso, onde se lê "tarefa do Moodle", a entrega passa a ser feita pelo formulário indicado no cronograma abaixo. As datas e o conteúdo de cada entrega não mudam. As notas e as faltas continuam na planilha de notas (link em Materiais).
 - O seminário 3 será no dia 07/12, com escolha e apresentação (10 a 12 min) de artigo publicado entre 2021 e 2026 no periódico Entertainment Computing (https://www.sciencedirect.com/journal/entertainment-computing).
 
 ### Materiais
 
+- Planilha de notas e faltas: [https://docs.google.com/spreadsheets/d/e/2PACX-1vTgxB-JqEdTAGq8iznECQCvv_6_e5SFRTtAi_8uwFKusn6S2tjInVas0Ly9ClRDbKVvim9bUqBOhoz0/pubhtml](https://docs.google.com/spreadsheets/d/e/2PACX-1vTgxB-JqEdTAGq8iznECQCvv_6_e5SFRTtAi_8uwFKusn6S2tjInVas0Ly9ClRDbKVvim9bUqBOhoz0/pubhtml)
 - Slides: [https://drive.google.com/drive/folders/1I9poQwrMgKwiL2PYbwUGHN-KL1lHehSH](https://drive.google.com/drive/folders/1I9poQwrMgKwiL2PYbwUGHN-KL1lHehSH)
 - Projeto de curso: [https://drive.google.com/file/d/1brg-5Q8vrleirw7L8stv4onU-QBoXGWI/view?usp=sharing](https://drive.google.com/file/d/1brg-5Q8vrleirw7L8stv4onU-QBoXGWI/view?usp=sharing)
 
@@ -64,10 +65,11 @@ O roteiro completo está no documento do Projeto de curso.
 
 ### Avisos
 
-- **24/11** O Moodle está fora do ar. De agora em diante, os materiais e as entregas da disciplina ficam nesta página. No documento do Projeto de curso, onde se lê "tarefa do Moodle", a entrega passa a ser feita pelo formulário indicado no cronograma abaixo. As datas e o conteúdo de cada entrega não mudam.
+- **24/11** O Moodle está fora do ar. De agora em diante, os materiais e as entregas da disciplina ficam nesta página. No documento do Projeto de curso, onde se lê "tarefa do Moodle", a entrega passa a ser feita pelo formulário indicado no cronograma abaixo. As datas e o conteúdo de cada entrega não mudam. As notas e as faltas continuam na planilha de notas (link em Materiais).
 
 ### Materiais
 
+- Planilha de notas e faltas: [https://docs.google.com/spreadsheets/d/e/2PACX-1vQYrCVX8ZlE0I9LD-8QxavXAfHeerqoux3VrCukz1iEbQi0Q6wElGQyg1Dku9dqy3_5Ongovn0TVlFZ/pubhtml](https://docs.google.com/spreadsheets/d/e/2PACX-1vQYrCVX8ZlE0I9LD-8QxavXAfHeerqoux3VrCukz1iEbQi0Q6wElGQyg1Dku9dqy3_5Ongovn0TVlFZ/pubhtml)
 - Slides e listas: [https://drive.google.com/drive/folders/1BZ95EcM26LBZ8vAMpnQgOkBKbCiiBSNf](https://drive.google.com/drive/folders/1BZ95EcM26LBZ8vAMpnQgOkBKbCiiBSNf)
 - Projeto de curso: [https://docs.google.com/document/d/18WREH4jkbfwmI1e6JTdPf2uO1MMdBzfEes3GuwXREBQ/](https://docs.google.com/document/d/18WREH4jkbfwmI1e6JTdPf2uO1MMdBzfEes3GuwXREBQ/)
 
@@ -137,13 +139,13 @@ O roteiro completo está no documento do Projeto de curso.
 
 ### Avisos
 
-- **24/11** O Moodle está fora do ar. De agora em diante, os materiais e as entregas da disciplina ficam nesta página. No documento do Projeto de curso, onde se lê "tarefa do Moodle", a entrega passa a ser feita pelo formulário indicado no cronograma abaixo. As datas e o conteúdo de cada entrega não mudam.
+- **24/11** O Moodle está fora do ar. De agora em diante, os materiais e as entregas da disciplina ficam nesta página. No documento do Projeto de curso, onde se lê "tarefa do Moodle", a entrega passa a ser feita pelo formulário indicado no cronograma abaixo. As datas e o conteúdo de cada entrega não mudam. As notas e as faltas continuam na planilha de notas (link em Materiais).
 
 ### Materiais
 
 - Slides e listas: [https://drive.google.com/drive/folders/1hs9jhddD5FwFIGWmVnzKSRdacv4eOkp6](https://drive.google.com/drive/folders/1hs9jhddD5FwFIGWmVnzKSRdacv4eOkp6)
 - Projeto de curso: [https://docs.google.com/document/d/1sIq77JkwcwjnFreoeU8iCQ-BsLGYo16fHz-JPyrMkG0/](https://docs.google.com/document/d/1sIq77JkwcwjnFreoeU8iCQ-BsLGYo16fHz-JPyrMkG0/)
-
+- Planilha de notas e faltas: [https://docs.google.com/spreadsheets/d/e/2PACX-1vRn903UJVW3EwMbeVv9ZOb9dLc3W28cbKDDoGaD67ESfPQOfatgQJEADAz5uydxw-BslzLUAqJ3ryA9/pubhtml](https://docs.google.com/spreadsheets/d/e/2PACX-1vRn903UJVW3EwMbeVv9ZOb9dLc3W28cbKDDoGaD67ESfPQOfatgQJEADAz5uydxw-BslzLUAqJ3ryA9/pubhtml)
 
 ### Cronograma (AULAS E ENTREGAS)
 
@@ -153,22 +155,42 @@ CONSULTE A DESCRIÇÃO DETALHADA DE CADA ENTREGA NO DOCUMENTO DO PROJETO DE CURS
 
 | Data limite | Descrição | Link para entrega |
 |---|---|---|
+| 25/11 | ENTREGA: Lista 09 (Evolução de software), em PDF | em breve |
 | 25/11 | ENTREGA: slides seminário 2  | [enviar slides](https://forms.gle/q1D6qkN6wEgagqpf9) |
-| 25/11 | ATV AVALIAÇÃO (SEMINÁRIO 2): apresentação do seminário 2  | tmp |
-| xx/xx | tmp | tmp |
-| xx/xx | tmp | tmp |
-| xx/xx | tmp | tmp |
+| 25/11 | ATV AVALIAÇÃO (SEMINÁRIO 2): apresentação do seminário 2  | não se aplica |
+| 29/11 | ENTREGA: Etapa 3 do projeto (E3-1): documento da Etapa 3, em PDF | em breve |
+| 29/11 | ENTREGA: Etapa 3 do projeto (E3-2): link do repositório, com a tag `incremento-1` | em breve |
+| 29/11 | ENTREGA: Etapa 3 do projeto (E3-3): link do vídeo | em breve |
+| 30/11 | AULA | não se aplica | <!-- AULA 12: Reúso de software (Lista 10) -->
+| 02/12 | AULA | não se aplica | <!-- AULA 13: Melhoria de processos (Lista 11) -->
+| 04/12 | ENTREGA: Etapa 3 do projeto (E3-4): nova previsão de impacto, em PDF | em breve |
+| 06/12 | ENTREGA: Lista 10 (Reúso de software), em PDF | em breve |
+| 06/12 | ENTREGA: Lista 11 (Melhoria de processos), em PDF | em breve |
+| 07/12 | ATV AVALIAÇÃO (PROVA 2) | não se aplica |
+| 09/12 | AULA | não se aplica | <!-- AULA: correção comentada da Prova 2 -->
+| 13/12 | ENTREGA: Etapa 4 do projeto: release v1.0 e LEIAME, no repositório | em breve |
+| 14/12 | ATV AVALIAÇÃO (MOSTRA): Etapa 5 do projeto, com estande e arguição | não se aplica |
+| 15/12 | ENTREGA: Etapa 4 do projeto: relatório final, em PDF | em breve |
+| 21/12 | EXAME ESPECIAL | não se aplica |
+| 23/12 | Correção do exame especial | não se aplica |
 
 ### PROJETO DE CURSO
 
-#### O que enviar na Etapa 8
+#### O que enviar nas Etapas 3, 4 e 5
  
-Um único formulário: 
-- Demo: link para baixar a build e link do repositório, com a tag `etapa-8`.
-- Relatório final em PDF, no modelo SBC, com post-mortem e declaração de uso de IA.
-- LEIAME: download, instalação, como jogar e controles.
-- Vídeo de gameplay: link do YouTube (público, não listado) e link do drive com vídeo original.
-O roteiro completo está no documento do Projeto de curso.
+Um formulário para cada entrega. Os links e os prazos estão no cronograma.
+ 
+- Etapa 3
+  - E3-1: documento da Etapa 3, em PDF.
+  - E3-2: link do repositório, com a tag `incremento-1`.
+  - E3-3: link do vídeo.
+  - E3-4: nova previsão de impacto, em PDF.
+- Etapa 4
+  - Release v1.0 e LEIAME, no repositório.
+  - Relatório final, em PDF.
+- Etapa 5
+  - Mostra: estande e arguição, presenciais, sem envio.
+O roteiro completo e os templates estão no documento do Projeto de curso.
 
 ### Atendimento
  
